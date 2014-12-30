@@ -30,7 +30,7 @@
 		</LinearLayout>
         <!--  Header Ends -->
  
-        <!-- Footer Start -->
+        <!-- Footer Start
 		<LinearLayout android:id="@+id/footer"
 		    android:layout_width="fill_parent"
 		    android:layout_height="wrap_content"
@@ -38,7 +38,7 @@
 		    android:background="@layout/footer_repeat"
 		    android:layout_alignParentBottom="true">
 		</LinearLayout>       
-		<!-- Footer Ends -->
+	 Footer Ends -->
  
         <!-- Login Form -->
         <LinearLayout
